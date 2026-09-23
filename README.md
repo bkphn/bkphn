@@ -3,7 +3,7 @@
 I am a student, researcher, and mathematics enthusiast focusing on natural language processing, theoretical computer science, and artificial intelligence models.
 
 ## 🔬 Research & Theoretical Work
-* **[n-gram Language Analysi](https://github.com/bkphn/n_gram_language_analysis)** - Research project focused on linguistic analysis using n-gram models.
+* **[n-gram Language Analysis](https://github.com/bkphn/n_gram_languag0e_analysis)** - Research project focused on linguistic analysis using n-gram models.
 * **[Algebra of Chains](https://github.com/bkphn/algebra-of-chains)** - My original mathematical framework formalizing operations on continued fractions without evaluating their rational values (currently in active development).
 
 ## 💻 Selected Projects
