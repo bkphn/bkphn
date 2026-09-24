@@ -8,7 +8,7 @@ I am a student, researcher, and mathematics enthusiast focusing on natural langu
 
 ## 💻 Selected Projects
 * **[Decipher](https://github.com/bkphn/Decipher)** - An educational game that lets you learn new writing systems (C#).
-* **[Expression Analyzer](https://github.com/bkphn/expression_analyzer)** - Academic project based on Facial Expression Recognition (FER) (Python).
+* **[Expression Analyzer](https://github.com/bkphn/expression_analyzer)** - Academic project based on Facial Expression Recognition (Python).
 
 ## 📚 Academic Knowledge Base
 * **[University Notes](https://github.com/bkphn/university-notes)** - My structured academic notes covering mathematics and computer science (mostly in Polish).
